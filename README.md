@@ -1,6 +1,6 @@
 # AI Text Humanizer
 
-A fine-tuned Phi-3 model that converts formal/neutral text into casual, conversational language. Trained on Reddit comments to capture natural human writing style.
+A fine-tuned Phi-3 model that converts formal/neutral text into casual, conversational language that gets past AI detectors like Quillbot and ZeroGPT. Trained on Reddit comments to capture natural human writing style.
 
 ## Features
 

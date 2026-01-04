@@ -11,12 +11,6 @@ A fine-tuned Phi-3 model that converts formal/neutral text into casual, conversa
 
 ## Examples
 
-**Input:** "The company's quarterly financial report indicates a significant increase in revenue compared to the previous fiscal year."
-
-**Output:** "Company's Q1 report shows huge jump over last year; new products and going international helped a ton but execs say we need more R&D spending if we wanna keep this up."
-
----
-
 **Input:** "The meeting has been scheduled for next Tuesday at 3 PM."
 
 **Output:** "We're meeting next Tuesday at 3."
